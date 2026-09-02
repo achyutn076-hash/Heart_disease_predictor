@@ -1,8 +1,4 @@
-﻿Below is a polished README.md you can use for your Streamlit app. I’ve tailored it for a live Streamlit deployment and included your app URL.
-
-
-```md
-# Human Heart Health
+﻿# Human Heart Health
 
 A Streamlit-based application for heart health monitoring, analysis, and decision support. This app provides an interactive interface to explore health-related data, visualize metrics, and gain quick insights for better health awareness.
 
